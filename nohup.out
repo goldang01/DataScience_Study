@@ -34,3 +34,16 @@
 [I 10:21:36.487 NotebookApp] Shutting down 1 kernel
 [I 10:21:36.488 NotebookApp] Kernel shutdown: 475da3fa-ca9d-45ca-b337-2f2d5071a2c6
 [I 10:21:36.489 NotebookApp] Shutting down 0 terminals
+[I 04:45:40.400 NotebookApp] Serving notebooks from local directory: /home/ubuntu/python/DataScience_Study
+[I 04:45:40.400 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 04:45:40.400 NotebookApp] http://localhost:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
+[I 04:45:40.400 NotebookApp]  or http://127.0.0.1:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
+[I 04:45:40.400 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:45:40.404 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:45:40.404 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-1879-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
+     or http://127.0.0.1:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
