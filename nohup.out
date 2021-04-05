@@ -1,0 +1,36 @@
+[I 10:17:34.807 NotebookApp] Serving notebooks from local directory: /home/ubuntu/python/DataScience_Study
+[I 10:17:34.807 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 10:17:34.807 NotebookApp] http://ip-172-31-38-146:8888/?token=54eb996c534c7e7617c14146a6ae3db27520679095079c60
+[I 10:17:34.807 NotebookApp]  or http://127.0.0.1:8888/?token=54eb996c534c7e7617c14146a6ae3db27520679095079c60
+[I 10:17:34.807 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:17:34.812 NotebookApp] No web browser found: could not locate runnable browser.
+[C 10:17:34.812 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-1646-open.html
+    Or copy and paste one of these URLs:
+        http://ip-172-31-38-146:8888/?token=54eb996c534c7e7617c14146a6ae3db27520679095079c60
+     or http://127.0.0.1:8888/?token=54eb996c534c7e7617c14146a6ae3db27520679095079c60
+[W 10:17:35.033 NotebookApp] 404 GET /api/contents/python/DataScience_Study?type=directory&_=1617530945190 (222.107.194.152): No such file or directory: python/DataScience_Study
+[W 10:17:35.033 NotebookApp] No such file or directory: python/DataScience_Study
+[W 10:17:35.034 NotebookApp] 404 GET /api/contents/python/DataScience_Study?type=directory&_=1617530945190 (222.107.194.152) 1.040000ms referer=http://52.79.173.121:8888/tree/python/DataScience_Study
+[W 10:17:36.815 NotebookApp] 404 GET /api/contents/python?type=directory&_=1617530945191 (222.107.194.152): No such file or directory: python
+[W 10:17:36.815 NotebookApp] No such file or directory: python
+[W 10:17:36.815 NotebookApp] 404 GET /api/contents/python?type=directory&_=1617530945191 (222.107.194.152) 1.270000ms referer=http://52.79.173.121:8888/tree/python
+[W 10:17:39.938 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[W 10:17:40.039 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20210404101734 (222.107.194.152) 10.570000ms referer=http://52.79.173.121:8888/notebooks/Chapter%201.ipynb
+[I 10:17:42.278 NotebookApp] Kernel started: 475da3fa-ca9d-45ca-b337-2f2d5071a2c6, name: python3
+[W 10:17:50.135 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[W 10:17:50.213 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20210404101734 (222.107.194.152) 1.500000ms referer=http://52.79.173.121:8888/notebooks/Chapter%201.ipynb
+[I 10:17:53.909 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 10:17:53.910 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[W 10:17:54.087 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 10:17:57.894 NotebookApp] 302 GET /nbconvert/html/Chapter%201.ipynb?download=false (222.107.194.152) 0.760000ms
+[I 10:17:57.905 NotebookApp] 302 GET /login?next=%2Fnbconvert%2Fhtml%2FChapter%25201.ipynb%3Fdownload%3Dfalse (222.107.194.152) 0.630000ms
+[I 10:17:59.226 NotebookApp] 302 GET /login?next=%2Fnbconvert%2Fhtml%2FChapter%25201.ipynb%3Fdownload%3Dfalse (222.107.194.152) 0.760000ms
+[W 10:17:59.290 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[W 10:18:08.776 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[C 10:21:36.438 NotebookApp] received signal 15, stopping
+[I 10:21:36.487 NotebookApp] Shutting down 1 kernel
+[I 10:21:36.488 NotebookApp] Kernel shutdown: 475da3fa-ca9d-45ca-b337-2f2d5071a2c6
+[I 10:21:36.489 NotebookApp] Shutting down 0 terminals
