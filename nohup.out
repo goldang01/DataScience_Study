@@ -47,3 +47,6 @@
     Or copy and paste one of these URLs:
         http://localhost:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
      or http://127.0.0.1:8888/?token=79202c61b7456ec0dd8992218506f69d7b301d522d104ca3
+[C 04:48:57.554 NotebookApp] received signal 15, stopping
+[I 04:48:57.555 NotebookApp] Shutting down 0 kernels
+[I 04:48:57.555 NotebookApp] Shutting down 0 terminals
